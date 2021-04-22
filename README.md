@@ -4,7 +4,7 @@
 
 I have been working out some ideas to get a little better functionality out of my DRO scales through the awesome [TouchDRO](https://www.touchdro.com/) project.  This required an Android device that I could mount near my mill, which means I needed a sturdy mount that could protect the tablet from an environment where oil and conductive metal chips would be flying around pretty regularly.  As I already had a DRO mount, I [created a VESA enclosure](https://github.com/aderusha/Fire-HD-10-Tablet-VESA-Mount) for the [Amazon Fire HD 10 Tablet](https://amzn.to/3xaqCTT) and then this VESA mount for the DRO arm.  Together, they provide a rigid and secure solution for touchscreen DRO at my machine.
 
-![Fire_HD_10_Tablet_VESA_Mount_parts.jpg](https://github.com/aderusha/VESA-Mount-for-DRO-Arm/blob/main/images/Fire_HD_10_Tablet_VESA_Mount_parts.jpg?raw=true)
+![VESA-Mount-for-DRO-Arm_X-Ray.png](https://github.com/aderusha/VESA-Mount-for-DRO-Arm/blob/main/images/VESA-Mount-for-DRO-Arm_X-Ray.png?raw=true)
 
 ![VESA-Mount-for-DRO-Arm-assembled.jpg](https://github.com/aderusha/VESA-Mount-for-DRO-Arm/blob/main/images/VESA-Mount-for-DRO-Arm-assembled.jpg?raw=true)
 
